@@ -54,7 +54,10 @@ user_groups = ["Researchers", "Visitors"]
   icon = "envelope"
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
-
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/abhijit-iitb/" 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
