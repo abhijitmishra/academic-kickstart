@@ -14,3 +14,4 @@ My research comes broadly under the area of Natural Language Processing, Underst
 I have been fortunate enough to work under Prof. Pushpak who spearheads NLP research in India, and collaborate with Prof. [Michael Carl](http://www.cbs.dk/en/research/departments-and-centres/department-of-international-business-communication/staff/mcibc), Department of IBC, Copenhagen Business School.
 
 Apart from thesis related work, at IIT Bombay, I contributed to various projects related to Machine Translation, Social Media Text Analysis, Crowdsourcing and Development of Resources and Tools for Indian Language Processing. Currently at IBM Research, I am involved in several projects based on Natural Language Generation. 
+

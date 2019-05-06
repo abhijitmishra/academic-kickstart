@@ -85,3 +85,4 @@ user_groups = ["Researchers", "Visitors"]
 I am currently a part of IBM Research, Bangalore, India, serving as Research Scientist in the department of AI Tech. Prior to joining IBM Research, I was a Ph.D. scholar in the Department of [Computer Science and Engineering (CSE), IIT Bombay](http://www.cse.iitb.ac.in/), working under the guidance of [Prof. Pushpak Bhattacharyya](http://www.cse.iitb.ac.in/~pb/).
 
 Here is my [CV](files/Abhijit_CV.pdf).
+
