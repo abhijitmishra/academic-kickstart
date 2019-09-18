@@ -72,17 +72,23 @@ subtitle = ""
 
 **Significant**
 
+18. Abhijit Mishra, Tarun Tater, Karthik Sankaranarayanan, [*A Modular Architecture for Unsupervised Sarcasm Generation*](papers/emnlp19_sarcasm-gen.pdf), **EMNLP 2019**, Hong Kong, China, 3rd Nov - 7th Nov, 2019
+
+17. Anirban Laha, Parag Jain, Abhijit Mishra, Karthik Sankaranarayanan, [*Scalable Micro-planned Generation of Discourse from Structured Data*](https://arxiv.org/abs/1810.02889), Computational Linguistics, MIT Press, 2019
+
+16. Sai Surya, Abhijit Mishra, Anirban Laha, Parag Jain, Karthik Sankaranarayanan, [*Unsupervised Neural Text Simplification*](papers/acl19_unsup-nts.pdf), **ACL 2019**, Florence, Italy, 28th July-2nd Aug, 2019
+
 15. Parag Jain, Abhijit Mishra, Amar P. Azad, Karthik Sankaranarayanan, [*Unsupervised Controllable Text Formalization*](papers/aaai19-controllable-nlg.pdf), **AAAI 2019**, Hawaii, USA, 27th Jan - 1st Feb, 2019
 
-14. Sandeep Mathias, Diptesh Kanojia, Kevin Patel, Samarth Agrawal, Abhijit Mishra and Pushpak Bhattacharyya, [*Eyes are the Windows to the Soul: Predicting the Rating of Text Quality Using Gaze Behaviour*](papers/acl18-text-quality.pdf), **ACL 2018**, Melbourne, Australia, 15 July-20 July, 2018.
+14. Sandeep Mathias, Diptesh Kanojia, Kevin Patel, Samarth Agrawal, Abhijit Mishra and Pushpak Bhattacharyya, [*Eyes are the Windows to the Soul: Predicting the Rating of Text Quality Using Gaze Behaviour*](papers/acl18-text-quality.pdf), **ACL 2018**, Melbourne, Australia, 15 July-20 July, 2018
 
-13. Vitobha Munigala, Abhijit Mishra, Srikanth Govindaraj Tamilselvam, Shreya Khare, Riddhiman Dasgupta and Anush Sankaran, [*PersuaAIDE ! An Adaptive Persuasive Text Generation System for Fashion Domain*](papers/www18-persuasion.pdf),**WWW 2018**, Lyon, France, 23th April - 27th April, 2018.
+13. Vitobha Munigala, Abhijit Mishra, Srikanth Govindaraj Tamilselvam, Shreya Khare, Riddhiman Dasgupta and Anush Sankaran, [*PersuaAIDE ! An Adaptive Persuasive Text Generation System for Fashion Domain*](papers/www18-persuasion.pdf),**WWW 2018**, Lyon, France, 23th April - 27th April, 2018
 
 12. Abhijit Mishra, Srikanth Tamilselvam, Riddhiman Dasgupta, Seema Nagar and Kuntal Dey, [*Cognition-Cognizant Sentiment Analysis with Multitask Subjectivity Summarization based on Annotators' Gaze Behavior*](papers/aaai18-multitask-sa.pdf), **AAAI, 2018**, New Orleans, USA, 2nd February - 7th February, 2018
 
 11. Srikanth Tamilselvam, Seema Nagar, Abhijit Mishra and Kuntal Dey, [*Graph Based Sentiment Aggregation using ConceptNet Ontology*](papers/ijcnlp17-senti-aggregation.pdf), IJCNLP, 2017, Taipei, Taiwan, 27 November-1st December, 2017
 
-10. Joe Cheri Ross, Abhijit Mishra, Kaustuv Kanti Ganguli, Pushpak Bhattacharyya [*Identifying Raga Similarity Through Embeddings Learned from Compositions' Notation*](papers/ismir17-raga-sim.pdf), **ISMIR 2017**, Suzhou, China, 23-28 October, 2017
+10. Joe Cheri Ross, Abhijit Mishra, Kaustuv Kanti Ganguli, Pushpak Bhattacharyya, [*Identifying Raga Similarity Through Embeddings Learned from Compositions' Notation*](papers/ismir17-raga-sim.pdf), **ISMIR 2017**, Suzhou, China, 23-28 October, 2017
 
 9. Abhijit Mishra, Kuntal Dey, Pushpak Bhattacharyya, [*Learning Cognitive Features from Gaze Data for Sentiment and Sarcasm Classification using Convolutional Neural Network*](papers/acl17-cognitive-cnn.pdf), **ACL 2017**, Vancouver, Canada, 30 July-4 August, 2017
 
@@ -90,11 +96,11 @@ subtitle = ""
 
 7. Abhijit Mishra, Diptesh Kanojia, Seema Nagar, Kuntal Dey, Pushpak Bhattacharyya, [*Harnessing Cognitive Features for Sarcasm Detection*](papers/acl16-sarcasm-detection.pdf), **ACL 2016**, Berlin, Germany, 7-12 August, 2016
 
-6. Abhijit Mishra, Diptesh Kanojia, Kuntal Dey, Seema Nagar and Pushpak Bhattacharyya, [*Leveraging Cognitive Features for Sentiment Analysis*](papers/conll16-cognitive-sa.pdf), **CoNLL 2016**, Berlin, Germany, August 11-12, 2016.
+6. Abhijit Mishra, Diptesh Kanojia, Kuntal Dey, Seema Nagar and Pushpak Bhattacharyya, [*Leveraging Cognitive Features for Sentiment Analysis*](papers/conll16-cognitive-sa.pdf), **CoNLL 2016**, Berlin, Germany, August 11-12, 2016
 
-5. Abhijit Mishra, Diptesh Kanojia and Pushpak Bhattacharyya, [*Predicting Readers' Sarcasm Understandability by Modelling Gaze Behaviour*](papers/aaai16_sarcasm_understandability.pdf), **AAAI 2016**, Phoenix, USA, Feb 12-17, 2016.
+5. Abhijit Mishra, Diptesh Kanojia and Pushpak Bhattacharyya, [*Predicting Readers' Sarcasm Understandability by Modelling Gaze Behaviour*](papers/aaai16_sarcasm_understandability.pdf), **AAAI 2016**, Phoenix, USA, Feb 12-17, 2016
 
-4. Aditya Joshi, Abhijit Mishra, Balamurali AR, Pushpak Bhattacharyya, Mark J Carman [*A computational approach for automatic prediction of drunk-texting*](papers/acl15-drunk-text.pdf) **ACL 2015**, Beijing, China, July 2015.
+4. Aditya Joshi, Abhijit Mishra, Balamurali AR, Pushpak Bhattacharyya, Mark J Carman, [*A computational approach for automatic prediction of drunk-texting*](papers/acl15-drunk-text.pdf) **ACL 2015**, Beijing, China, July 2015
 
 3. Aditya Joshi, Abhijit Mishra, Nivvedan Senthamilselvan and Pushpak Bhattacharyya, [*Measuring Sentiment Annotation Complexity of Text*](papers/acl2014_sac.pdf), **ACL 2014**, Baltimore, USA, 23-25 June, 2014
 
@@ -104,17 +110,17 @@ subtitle = ""
 
 **Workshop and Demo Papers**
 
-1. Parag Jain, Priyanka Agrawal, Abhijit Mishra, Mohak Sukhwani, Anirban Laha. [*Story Generation from Sequence of Independent Short Descriptions*](papers/mlcreativity-storytelling.pdf), **ML4Creativity**, SIGKDD Workshop, Halifax, Nova Scotia - Canada.
+1. Parag Jain, Priyanka Agrawal, Abhijit Mishra, Mohak Sukhwani, Anirban Laha, [*Story Generation from Sequence of Independent Short Descriptions*](papers/mlcreativity-storytelling.pdf), **ML4Creativity**, SIGKDD Workshop, Halifax, Nova Scotia - Canada.
 
 2. Joe Cheri, Abhijit Mishra and Pushpak Bhattacharyya, [*Leveraging Annotators' Gaze Behaviour for Coreference Resolution*](papers/cogacll16-coref.pdf), ACL 2016 Workshop on Cognitive Aspects of Computational Language Learning (**CogACLL 2016**) at ACL 2016, Berlin, Germany, August 11, 2016.
 
-3. Diptesh Kanojia, Shehzaad Dhuliawala, Abhijit Mishra, Naman Gupta and Pushpak Bhattacharyya (paper/icon-2015-transchat.pdf) [*TransChat: Cross-Lingual Instant Messaging for Indian Languages*], ICON 2015, December 2015
+3. Diptesh Kanojia, Shehzaad Dhuliawala, Abhijit Mishra, Naman Gupta and Pushpak Bhattacharyya, [*TransChat: Cross-Lingual Instant Messaging for Indian Languages*](papers/icon-2015-transchat.pdf), ICON 2015, December 2015
                
 4. Abhijit Mishra, Aditya Joshi and Pushpak Bhattacharyya, [*A cognitive study of subjectivity extraction in sentiment annotation*](papers/wassa2014.pdf), 5th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (**WASSA 2014**), Baltimore, USA, 27 June, 2014
 		
-5. Anoop Kunchukuttan, Ratish Pudupully, Rajen Chatterjee, Abhijit Mishra, Pushpak Bhattacharyya (papers/icon_2014_iitbsys.pdf) [*The IIT Bombay SMT System for ICON 2014 Tools Contest*], ICON 2014, Goa, India, Dec 2014
+5. Anoop Kunchukuttan, Ratish Pudupully, Rajen Chatterjee, Abhijit Mishra, Pushpak Bhattacharyya, [*The IIT Bombay SMT System for ICON 2014 Tools Contest*](papers/icon_2014_iitbsys.pdf), ICON 2014, Goa, India, Dec 2014
                 
-6. Piyush Dungarwal, Rajen Chatterjee, Abhijit Mishra, Anoop Kunchukuttan, Ritesh Shah and Pushpak Bhattacharyya [*The IIT Bombay Hindi-English Translation System at WMT 2014*](papers/wmt2014.pdf), 9th Workshop on Statistical Machine Translation (**WMT 2014**), Baltimore, USA, 26-27 June, 2014
+6. Piyush Dungarwal, Rajen Chatterjee, Abhijit Mishra, Anoop Kunchukuttan, Ritesh Shah and Pushpak Bhattacharyya, [*The IIT Bombay Hindi-English Translation System at WMT 2014*](papers/wmt2014.pdf), 9th Workshop on Statistical Machine Translation (**WMT 2014**), Baltimore, USA, 26-27 June, 2014
 
 7. Anoop Kunchukuttan, Rajen Chatterjee, Shourya Roy, Abhijit Mishra and Pushpak Bhattacharyya, [*TransDoop: A Map-Reduce based Crowdsourced Translation for Complex Domain*](acl13-demo-crowdsourcing-system.pdf), **ACL 2013**, Sofia, Bulgaria, 4-9 August, 2013
 
