@@ -74,7 +74,7 @@ subtitle = ""
 
 18. Abhijit Mishra, Tarun Tater, Karthik Sankaranarayanan, [*A Modular Architecture for Unsupervised Sarcasm Generation*](papers/emnlp19_sarcasm-gen.pdf), **EMNLP 2019**, Hong Kong, China, 3rd Nov - 7th Nov, 2019
 
-17. Anirban Laha, Parag Jain, Abhijit Mishra, Karthik Sankaranarayanan, [*Scalable Micro-planned Generation of Discourse from Structured Data*](https://arxiv.org/abs/1810.02889), Computational Linguistics, MIT Press, 2019
+17. Anirban Laha, Parag Jain, Abhijit Mishra, Karthik Sankaranarayanan, [*Scalable Micro-planned Generation of Discourse from Structured Data*](papers/cl19_structscribe.pdf), **Computational Linguistics**, MIT Press, 2019 (equal contribution from the first three authors)
 
 16. Sai Surya, Abhijit Mishra, Anirban Laha, Parag Jain, Karthik Sankaranarayanan, [*Unsupervised Neural Text Simplification*](papers/acl19_unsup-nts.pdf), **ACL 2019**, Florence, Italy, 28th July-2nd Aug, 2019
 
