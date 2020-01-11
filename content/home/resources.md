@@ -17,9 +17,11 @@ Eye-tracking datasets for various NLP and Psycholinguistic tasks viz. Sentiment 
 
 ***2. Natural Language Generation:***
 
-Code, dataset and resources for Unsupervised Neural Text Simplification can be found [here](https://github.com/subramanyamdvss/UnsupNTS) .
+Code and dataset for "Sarcasm Generation" [here](https://github.com/TarunTater/sarcasm_generation) 
 
-Code, dataset and resources for Natural Language Description Generation from Tables and Graphs can be found [here](https://github.com/parajain/structscribe) . 
+Code, dataset and resources for "Unsupervised Neural Text Simplification" can be found [here](https://github.com/subramanyamdvss/UnsupNTS) .
+
+Code, dataset and resources for "Natural Language Description Generation from Tables and Graphs" can be found [here](https://github.com/parajain/structscribe) . 
  
-Code, dataset and resources Unsuperviser Controllable Text Formalization can be found [here](https://github.com/parajain/uctf) . 
+Code, dataset and resources for "Unsuperviser Controllable Text Formalization" can be found [here](https://github.com/parajain/uctf) . 
 
