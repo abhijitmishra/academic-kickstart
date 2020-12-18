@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Dr. Abhijit Mishra"
+name = "Abhijit Mishra"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,14 +9,15 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Research Scientist"
+role = "Machine Learning Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "IBM Research", url = "http://www.research.ibm.com/" } ]
+organizations = [ { name = "Apple Inc." }]
+#, url = "http://www.research.ibm.com/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed Cognitive NLP, Natural Language Generation, and Deep Generative Modeling."
+bio = "My research interests include Dialog Systems, Cognitive NLP, Natural Language Generation, and Deep Generative Modeling."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -82,7 +83,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am currently a part of IBM Research, Bangalore, India, serving as Research Scientist in the department of AI Tech. Prior to joining IBM Research, I was a Ph.D. scholar in the Department of [Computer Science and Engineering (CSE), IIT Bombay](http://www.cse.iitb.ac.in/), working under the guidance of [Prof. Pushpak Bhattacharyya](http://www.cse.iitb.ac.in/~pb/).
+I am an ML Scientist in the Siri International team at _Apple inc._, Seattle. Before this I was a part of _IBM Research_, Bangalore, India, serving as Research Scientist in the department of AI Tech. I have obtained Ph.D in Computer Science and Engineering (CSE) from [IIT Bombay](http://www.cse.iitb.ac.in/), under the guidance of [Prof. Pushpak Bhattacharyya](http://www.cse.iitb.ac.in/~pb/).
 
 Here is my [CV](files/Abhijit_CV.pdf).
-

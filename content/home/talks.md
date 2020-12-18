@@ -67,7 +67,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[***To be presented at ACL 2019***]: Storytelling from Structured Data and Knowledge Graphs : An NLG Perspective.
+[***Presented at ACL 2019***]: Storytelling from Structured Data and Knowledge Graphs : An NLG Perspective. Tutorial Materials can be found [here](https://sites.google.com/view/acl-19-nlg) 
 
 [***18 Jan, 2019***]: Tutorial on "Natural Language Generation and its Applications", Indian Institute of Science, Bangalore, India
 

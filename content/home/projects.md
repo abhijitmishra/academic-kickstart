@@ -73,19 +73,25 @@ subtitle = "Significant"
  # CSS class.
  css_class = ""
 +++
-***1. Natural Language Generation (NLG) from Structured Data*** 
+***1. Multilingual and Cross Lingual Dialog Systems***
 
-(*Duration: 2017- , Status: Ongoing*)
+(*Duration: 2017-2020, Status: Completed*)
+
+The aim of the research is to make end-to-end dialog systems capable of adapting to newer domains and langauges. This builds upon my previous work on Natural Language Generation, and creation of multi-lingual resources for Indian Languages. Several transfer learning and K-shot learning schemes are also being explored under the belt of this project. 
+
+***2. Natural Language Generation (NLG) from Structured Data*** 
+
+(*Duration: 2017-2020, Status: Completed*)
 
 The research aims at generating natural language descriptions from structured data such as knowledge graphs, tables *etc.* Motivated by the need to approach this problem in a manner that is scalable and adaptable to newer domain (unlike existing related systems that are rule/template-based or end-to-end neural systems), we introduce scalable modular approaches that do not require any labelled data for generation. Rather, these systems require only large scale unlabelled text and basic NLP tools such as Part of Speech taggers. Our initial experiments on a benchmark mixed domain dataset reveal the superiority of our framework over various existing *data-to-text* systems. We are currently focusing on generation of interesting narratives from structured data.
 
-***2. Unsupervised Controllable Language Generation*** 
+***3. Unsupervised Controllable Language Generation*** 
 
-(*Duration: 2017-, Status: Ongoing*)
+(*Duration: 2017-2018, Status: Completed*)
 
 Like *data-to-text* NLG, scalable and interpretable solutions are also elusive for *text-to-text* NLG problems such as text-simplification, formalization, purpose paraphrasing. We aim to devise new unsupervised learning schemes for *text-to-text* NLG problems. So far we have proposed novel and practical solutions for unsupervised text simplification and controllable text transformation. We have also attempted to provide solutions for sarcasm generation, a highly nuanced task that requires language understanding at deep semantic and pragmatic levels.
 
-***3. Cognitive NLP through Eye-tracking*** 
+***4. Cognitive NLP through Eye-tracking*** 
 
 (*Duration: 2013-2017, Status: Completed, Remark: PhD. Thesis*)
 
@@ -93,13 +99,13 @@ The research attempts to gain insights into the cognitive underpinnings of human
     
 Today’s NLP is highly statistical in nature and needs massive amount of human annotated data. In our setting, apart from collecting the annotations, we aim to record annotators’ activities in the form of their eye movement patterns, key-strokes and neuro-eletric signals obtained using EEG. Through a series of studies using eye-tracking alone, we show that data of such kind, can be used to model complexities of tasks like translation and sentiment annotation, where eye-movement data is used to label training data that model annotation effort for the specified tasks. This can be useful for better annotation management (for example, proposing better annotation cost models).  We also show that eye movement data can also be used to extract *Cognition Driven* Features, to be used to be used for difficult NLP tasks like Sentiment Analysis and Sarcasm Detection. Our proposed approaches consistently perform better than state-of-the-art sentiment and sarcasm classifiers, showing that cognitive features can be useful for tasks that are nuanced by linguistic subtleties. For more information, visit the [Cognitive NLP](http://www.cfilt.iitb.ac.in/~cognitive-nlp) website.
 
-***4. Indian Language Machine Translation*** 
+***5. Indian Language Machine Translation*** 
 
 (*Duration: 2013-2014, Status: Completed*)
 
 We developed a compendium of 110 *Statistical Machine Translation* systems built from parallel corpora of 11 Indian languages belonging to the Indo-Aryan and Dravidian families. We analyze the relationship between translation accuracy and the language families involved. We feel that insights obtained from this analysis will provide guidelines for creating machine translation systems for specific Indian language pairs. For our studies, we built phrase based systems and some extensions. Across multiple languages, we show improvements on the baseline phrase based systems using these extensions: (1) Source side reordering for English-Indian language translation, and (2) Transliteration of untranslated words for Indian language-Indian language translation. These enhancements harness shared characteristics of Indian languages. To stimulate similar innovation widely in the NLP community, we have made the trained models for these language pairs publicly available. The system is available at: [http://www.cfilt.iitb.ac.in/indic-translator](http://www.cfilt.iitb.ac.in/indic-translator)
 
-***5. Crowdsourcing for NLP Resources*** 
+***6. Crowdsourcing for NLP Resources*** 
 
 (*Duration: 2011-2013, Status: Completed*)
 

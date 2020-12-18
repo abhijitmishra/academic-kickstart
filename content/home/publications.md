@@ -70,7 +70,11 @@ subtitle = ""
 
 1. Abhijit Mishra and Pushpak Bhattacharyya, [*Cognitively Inspired Natural Language Processing- An Investigation Based on Eye Tracking*](https://www.springer.com/us/book/9789811315152), Cognitive Intelligence and Robotics Series, **Springer Nature Singapore**, ISBN:978-981-13-1515-2, 2018.
 
-**Significant**
+**Main Conferences and Journals**
+
+20. Sandeep Mathias, Rudra Murthy, Diptesh Kanojia, Abhijit Mishra, Pushpak Bhattacharyya, [*Happy Are Those Who Grade without Seeing: A Multi-Task Learning Approach to Grade Essays Using Gaze Behaviour*](https://arxiv.org/pdf/2005.12078.pdf). **AACL-IJCNLP 2020**, worldwide.
+
+19. Sandeep Mathias, Diptesh Kanojia, Abhijit Mishra and Pushpak Bhattacharyya, [*A Survey on Using Gaze Behaviour for Natural Language Processing*](https://www.ijcai.org/Proceedings/2020/0683.pdf). **IJCAI-PRICAI 2020**, Yokohama, Japan.
 
 18. Abhijit Mishra, Tarun Tater, Karthik Sankaranarayanan, [*A Modular Architecture for Unsupervised Sarcasm Generation*](papers/emnlp19_sarcasm-gen.pdf), **EMNLP 2019**, Hong Kong, China, 3rd Nov - 7th Nov, 2019
 
@@ -110,18 +114,20 @@ subtitle = ""
 
 **Workshop and Demo Papers**
 
-1. Parag Jain, Priyanka Agrawal, Abhijit Mishra, Mohak Sukhwani, Anirban Laha, [*Story Generation from Sequence of Independent Short Descriptions*](papers/mlcreativity-storytelling.pdf), **ML4Creativity**, SIGKDD Workshop, Halifax, Nova Scotia - Canada.
+1. Abhijit Mishra, Md Faisal Mahbub Chowdhury, Sagar Manohar, Dan Gutfreund, Karthik Sankaranarayanan, [*Template Controllable keywords-to-text Generation*](https://arxiv.org/pdf/2011.03722.pdf). arXiv preprint arXiv:2011.03722
 
-2. Joe Cheri, Abhijit Mishra and Pushpak Bhattacharyya, [*Leveraging Annotators' Gaze Behaviour for Coreference Resolution*](papers/cogacll16-coref.pdf), ACL 2016 Workshop on Cognitive Aspects of Computational Language Learning (**CogACLL 2016**) at ACL 2016, Berlin, Germany, August 11, 2016.
+2. Parag Jain, Priyanka Agrawal, Abhijit Mishra, Mohak Sukhwani, Anirban Laha, [*Story Generation from Sequence of Independent Short Descriptions*](papers/mlcreativity-storytelling.pdf), **ML4Creativity**, SIGKDD Workshop, Halifax, Nova Scotia - Canada.
 
-3. Diptesh Kanojia, Shehzaad Dhuliawala, Abhijit Mishra, Naman Gupta and Pushpak Bhattacharyya, [*TransChat: Cross-Lingual Instant Messaging for Indian Languages*](papers/icon-2015-transchat.pdf), ICON 2015, December 2015
+3. Joe Cheri, Abhijit Mishra and Pushpak Bhattacharyya, [*Leveraging Annotators' Gaze Behaviour for Coreference Resolution*](papers/cogacll16-coref.pdf), ACL 2016 Workshop on Cognitive Aspects of Computational Language Learning (**CogACLL 2016**) at ACL 2016, Berlin, Germany, August 11, 2016.
+
+4. Diptesh Kanojia, Shehzaad Dhuliawala, Abhijit Mishra, Naman Gupta and Pushpak Bhattacharyya, [*TransChat: Cross-Lingual Instant Messaging for Indian Languages*](papers/icon-2015-transchat.pdf), ICON 2015, December 2015
                
-4. Abhijit Mishra, Aditya Joshi and Pushpak Bhattacharyya, [*A cognitive study of subjectivity extraction in sentiment annotation*](papers/wassa2014.pdf), 5th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (**WASSA 2014**), Baltimore, USA, 27 June, 2014
+5. Abhijit Mishra, Aditya Joshi and Pushpak Bhattacharyya, [*A cognitive study of subjectivity extraction in sentiment annotation*](papers/wassa2014.pdf), 5th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (**WASSA 2014**), Baltimore, USA, 27 June, 2014
 		
-5. Anoop Kunchukuttan, Ratish Pudupully, Rajen Chatterjee, Abhijit Mishra, Pushpak Bhattacharyya, [*The IIT Bombay SMT System for ICON 2014 Tools Contest*](papers/icon_2014_iitbsys.pdf), ICON 2014, Goa, India, Dec 2014
+6. Anoop Kunchukuttan, Ratish Pudupully, Rajen Chatterjee, Abhijit Mishra, Pushpak Bhattacharyya, [*The IIT Bombay SMT System for ICON 2014 Tools Contest*](papers/icon_2014_iitbsys.pdf), ICON 2014, Goa, India, Dec 2014
                 
-6. Piyush Dungarwal, Rajen Chatterjee, Abhijit Mishra, Anoop Kunchukuttan, Ritesh Shah and Pushpak Bhattacharyya, [*The IIT Bombay Hindi-English Translation System at WMT 2014*](papers/wmt2014.pdf), 9th Workshop on Statistical Machine Translation (**WMT 2014**), Baltimore, USA, 26-27 June, 2014
+7. Piyush Dungarwal, Rajen Chatterjee, Abhijit Mishra, Anoop Kunchukuttan, Ritesh Shah and Pushpak Bhattacharyya, [*The IIT Bombay Hindi-English Translation System at WMT 2014*](papers/wmt2014.pdf), 9th Workshop on Statistical Machine Translation (**WMT 2014**), Baltimore, USA, 26-27 June, 2014
 
-7. Anoop Kunchukuttan, Rajen Chatterjee, Shourya Roy, Abhijit Mishra and Pushpak Bhattacharyya, [*TransDoop: A Map-Reduce based Crowdsourced Translation for Complex Domain*](acl13-demo-crowdsourcing-system.pdf), **ACL 2013**, Sofia, Bulgaria, 4-9 August, 2013
+8. Anoop Kunchukuttan, Rajen Chatterjee, Shourya Roy, Abhijit Mishra and Pushpak Bhattacharyya, [*TransDoop: A Map-Reduce based Crowdsourced Translation for Complex Domain*](acl13-demo-crowdsourcing-system.pdf), **ACL 2013**, Sofia, Bulgaria, 4-9 August, 2013
 
-8. Abhijit Mishra, Michael Carl and Pushpak Bhattacharyya, [*A Heuristic Based Approach for Systematic Error Correction of Gaze Data for Reading*](papers/coling12-eyetracking-gaze-correction.pdf), First Workshop on Eye Tracking and NLP, part of **COLING 2012**, Mumbai, India, 15 Dec, 2012
+9. Abhijit Mishra, Michael Carl and Pushpak Bhattacharyya, [*A Heuristic Based Approach for Systematic Error Correction of Gaze Data for Reading*](papers/coling12-eyetracking-gaze-correction.pdf), First Workshop on Eye Tracking and NLP, part of **COLING 2012**, Mumbai, India, 15 Dec, 2012
